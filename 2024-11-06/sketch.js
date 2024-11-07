@@ -35,6 +35,10 @@ function draw() {
   drawKeypoints();
 }
 
+// idea..
+// hand to animal ?!
+// detect the sign language and fetch an image from internet that matches?
+
 function drawKeypoints() {
   for (let i = 0; i < predictions.length; i += 1) {
     const prediction = predictions[i];

@@ -1,0 +1,4 @@
+- get a p5js Typescript template working (want that editor goodness)
+- use templating to generate a links to the full tree of sketches
+  - i.e. the base index.html should have a templated version that I can run some generation script on locally
+- how to handle references to data? for my local live server (that hot reloads) vs when it's hosted on GH
